@@ -18,8 +18,8 @@
 				<li class="principal">
 					<a href="#">Gestion de Rol</a>
 					<ul>
-						<li><a href="#">Nuevo Rol</a></li>
-						<li><a href="#">Lista de Roles</a></li>
+						<li><a href="registro_rol.php">Registro Rol</a></li>
+						<li><a href="lista_rol.php">Lista de Roles</a></li>
 					</ul>
 				</li>
 			</ul>
