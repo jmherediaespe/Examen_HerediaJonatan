@@ -52,7 +52,7 @@
         ?>
                  <table>
             <tr>
-                <th>Rol</th>
+                <th>Modulo</th>
             </tr>
             <?php
                 //QUERY PARA LISTAR MODULOS
